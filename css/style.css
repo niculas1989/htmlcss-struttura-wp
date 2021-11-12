@@ -14,3 +14,37 @@
     width: 1020px;
     margin: 0 auto;
 }
+
+/* Utilities */
+
+.boxes {
+    margin: 20px 0;
+}
+
+/* Boxes */
+.pink-box {
+    height: 100px;
+    background-color:#E57AE6;
+}
+.yellow-box {
+    height: 300px;
+    background-color:#E0D77A;
+}
+
+main {
+    height: 500px;
+    background-color:#ABCFE7;
+}
+
+.top {
+    height: 100px;
+    border-bottom: 5px solid black;
+}
+
+.sidebar {
+    height: 300px;
+}
+
+.central {
+    height: 300px;
+}
